@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7f03bc1fc2955054a907d3ab2316ce51
+guid: 6b517676340dec349abc6d697c51fe18
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,8 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: M_Schneiderpuppe
-    second: {fileID: 2100000, guid: 98d5b97232ed3444b87de065bbd210b2, type: 2}
+      name: lambert1
+    second: {fileID: 2100000, guid: bf276f53291eddb4d9053d2ae81ca063, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

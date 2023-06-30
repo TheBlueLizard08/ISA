@@ -3,7 +3,32 @@ guid: 9598356a21da91741a089837254eb16d
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balusters
+    second: {fileID: 2100000, guid: 4d25de70d20064846a139cee02729ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handrail
+    second: {fileID: 2100000, guid: 6196bb68f6502ea458894b953a7f72f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillar
+    second: {fileID: 2100000, guid: 7c622139420d9bf4fbe9d0200b3f33d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soffit-Floor
+    second: {fileID: 2100000, guid: 71569a2fc8e749944873ffafe5426718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steps
+    second: {fileID: 2100000, guid: 69358a124c61264429b95d84eff2b978, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

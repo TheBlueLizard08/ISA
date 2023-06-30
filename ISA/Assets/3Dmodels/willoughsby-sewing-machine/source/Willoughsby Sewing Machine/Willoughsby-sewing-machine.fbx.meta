@@ -3,7 +3,17 @@ guid: bb2b0cc4a4bbc18489b4c03b532c05f9
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sewing Machine
+    second: {fileID: 2100000, guid: 1a9163fadcede494a98e41e24ca883cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table
+    second: {fileID: 2100000, guid: 86bb8173470795d4ca44bd59f2101892, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
